@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://akzhol.tech/</loc>
+    <loc>https://akzhol.tech/</loc>
     <lastmod>2022-09-20T02:26:21+06:00</lastmod>
   </url><url>
-    <loc>http://akzhol.tech/tags/devops/</loc>
+    <loc>https://akzhol.tech/tags/devops/</loc>
     <lastmod>2022-09-20T02:26:21+06:00</lastmod>
   </url><url>
-    <loc>http://akzhol.tech/tags/docker/</loc>
+    <loc>https://akzhol.tech/tags/docker/</loc>
     <lastmod>2022-09-20T02:26:21+06:00</lastmod>
   </url><url>
-    <loc>http://akzhol.tech/posts/dockercompose/</loc>
+    <loc>https://akzhol.tech/posts/dockercompose/</loc>
     <lastmod>2022-09-20T02:26:21+06:00</lastmod>
   </url><url>
-    <loc>http://akzhol.tech/posts/</loc>
+    <loc>https://akzhol.tech/posts/</loc>
     <lastmod>2022-09-20T02:26:21+06:00</lastmod>
   </url><url>
-    <loc>http://akzhol.tech/tags/</loc>
+    <loc>https://akzhol.tech/tags/</loc>
     <lastmod>2022-09-20T02:26:21+06:00</lastmod>
   </url><url>
-    <loc>http://akzhol.tech/categories/</loc>
+    <loc>https://akzhol.tech/categories/</loc>
   </url>
 </urlset>
