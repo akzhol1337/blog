@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>docker on </title>
+    <link>http://akzhol.tech/tags/docker/</link>
+    <description>Recent content in docker on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 20 Sep 2022 02:26:21 +0600</lastBuildDate><atom:link href="http://akzhol.tech/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker compose</title>
+      <link>http://akzhol.tech/posts/dockercompose/</link>
+      <pubDate>Tue, 20 Sep 2022 02:26:21 +0600</pubDate>
+      
+      <guid>http://akzhol.tech/posts/dockercompose/</guid>
+      <description>Docker-compose is used to run multiple containers as a single service. Let’s suppose you had an application that required NGNIX and Django, you could create one yml file which would run both the containers as a service without the need to manage them separately.
+In some cases, you may want to deploy your docker-compose on a remote host. For small projects setting up container orchestration tools like Kubernetes, Docker Swarm, etc is time-consuming and hard if you are not familiar with them.</description>
+    </item>
+    
+  </channel>
+</rss>
